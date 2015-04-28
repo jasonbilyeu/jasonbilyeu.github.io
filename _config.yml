@@ -1,30 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:               Jason Bilyeu Blog
-tagline:             Jason Bilyeu Blog
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title:            "Jason Bilyeu's Blog" 
+tagline:          'A test-minded software architect delving into the world of microservices with Spring Boot and responsive UI design with AngularJS'
+description:      'A test-minded software architect delving into the world of microservices with Spring Boot and responsive UI design with AngularJS' 
+url:              http://jasonbilyeu.github.io 
+baseurl:          /
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Jason Bilyeu
-  url:               https://linkedin.com
-  email:             jasonbilyeu@ymail.com
+  name:           'Jason Bilyeu' 
+  url:            https://linkedin.com
+email:            jasonbilyeu@ymail.com
+
+paginate:         5
 
 # Custom vars
-version:             1.0.0
+version:          2.1.0
+
 github:
-  repo:              https://github.com/jasonbilyeu/jasonbilyeu.github.io
+  repo:           https://github.com/jasonbilyeu/jasonbilyeu.github.io 
