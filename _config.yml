@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            "Jason Bilyeu's Blog" 
 tagline:          'A test-minded software architect delving into the world of microservices with Spring Boot and responsive UI design with AngularJS'
 description:      'A test-minded software architect delving into the world of microservices with Spring Boot and responsive UI design with AngularJS' 
-url:              http://hyde.getpoole.com
-baseurl:          /jasonbilyeu.github.io/
+url:              http://jasonbilyeu.github.io 
+baseurl:          /
 
 author:
   name:           'Jason Bilyeu' 
