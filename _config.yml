@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Jason Bilyeu Blog
+tagline:             Jason Bilyeu Blog
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jason Bilyeu
+  url:               https://linkedin.com
+  email:             jasonbilyeu@ymail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/jasonbilyeu/jasonbilyeu.github.io
