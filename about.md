@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-   My name is Jason Bilyeu and I am a Software Architect living in Austin, TX.
+My name is Jason Bilyeu and I am a Software Architect living in Austin, TX.
 </p>
 
 I really enjoy building high-quality software using the latest Java server-side technologies and javascript client-side libraries.  Some of my recent work has used these libraries/frameworks:
@@ -13,6 +13,7 @@ I really enjoy building high-quality software using the latest Java server-side 
 * Spring Cloud
 * Spring Data JPA
 * Project Lombok
+* Gradle build system
 * Spock Testing Framework
 * AngularJS
 
